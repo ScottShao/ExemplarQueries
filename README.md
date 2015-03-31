@@ -1,5 +1,8 @@
 # ExemplarQueries
+aaaaaaaa
 
+
+aaaaaaaaa
 Exemplar queries is a new query paradigm. This library is able to use Freebase to process exemplar queries at run-time. 
 
 This package contains a number of algorithms and optimizations to run exemplar queries. 
